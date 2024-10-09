@@ -1,4 +1,4 @@
-function criacartao(){
+function criacartao(categoria){
     let container = document.getElementById('container')
     let cartao = document.createElement('Article')
     cartao.className = 'Cartao';
@@ -13,4 +13,6 @@ function criacartao(){
     </div>
 </div>
     `
+
+    container.appendChild(cartao);
 }
