@@ -41,3 +41,8 @@ footer{
     text-align:center;
     height: 100%;
 }
+
+.conteudo-cartao h3{
+    color: var(--branco);
+    border: 10px;
+}
