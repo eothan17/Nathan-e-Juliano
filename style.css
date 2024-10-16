@@ -54,7 +54,7 @@ footer{
 }
 
 .conteudo-cartao h3{
-    color: var(--cartao-verso);
+    color: var(--destaque);
     
     position: absolute;
     text-align: left;
@@ -76,7 +76,7 @@ footer{
 }
 .resposta-cartao{
     font-weight: 700;
-    color: var(--branco);
+    color: var(--destaque);
     
 }
 
@@ -97,4 +97,5 @@ footer{
     transform: rotateY(180deg);
     border: 2px solid var(--branco);
     border-radius: 20px;
+    background-color: var(--cartao-verso);
 }
