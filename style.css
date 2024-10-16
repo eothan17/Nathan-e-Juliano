@@ -16,7 +16,7 @@ body{
 footer{
     position: fixed;
     bottom: 0;
-    background-color: var(--preto);
+    background-color: var(--destaque);
     color: var(--branco);
     width: 100%;
     text-align: center;
