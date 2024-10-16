@@ -10,7 +10,7 @@
 }
 
 body{
-    background-color: var(--destaque);
+    background-color: var(--fundo);
     margin: 0;
 
 }
@@ -42,7 +42,7 @@ footer{
     height: 20rem;
 }
 .conteudo-cartao{
-    background-color: var(--fundo);
+    background-color: var(--cartao-frente);
     text-align:center;
     height: 100%;
     border-radius: 20px;
