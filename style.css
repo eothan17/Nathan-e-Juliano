@@ -80,7 +80,7 @@ footer{
     
 }
 
-.Cartao:hover .conteudo-cartao{
+.Cartao:active .conteudo-cartao{
     transform: rotateY(180deg);
     
 }
