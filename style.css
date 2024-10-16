@@ -95,7 +95,7 @@ footer{
 
 .resposta-cartao{
     transform: rotateY(180deg);
-    background-color: var(--branco);
+    
     border: 2px solid var(--branco);
     border-color: var(--fundo);
     border-radius: 20px;
