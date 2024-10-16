@@ -78,4 +78,5 @@ footer{
 
 .Cartao:hover .conteudo-cartao{
     transform: rotateY(180deg);
+    background-color: #00FF00;
 }
