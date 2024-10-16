@@ -10,7 +10,7 @@
 }
 
 body{
-    background-color: var(--cartao-frente);
+    background-color: var(--destaque);
     margin: 0;
 
 }
