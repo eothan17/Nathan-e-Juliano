@@ -95,8 +95,6 @@ footer{
 
 .resposta-cartao{
     transform: rotateY(180deg);
-    
     border: 2px solid var(--branco);
-    border-color: var(--fundo);
     border-radius: 20px;
 }
