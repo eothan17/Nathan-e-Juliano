@@ -82,7 +82,7 @@ footer{
 
 .Cartao:hover .conteudo-cartao{
     transform: rotateY(180deg);
-    background-color: var(--cartao-verso);
+    
 }
 
 .pergunta-cartao, .resposta-cartao{
