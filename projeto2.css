@@ -42,15 +42,16 @@ footer{
 
 #container{
     display: grid;
-    gap: 5rem;
+    gap: 3rem;
     padding: 20px;
 }
 
 .conteudo-cartao{
     padding: 40px;
     background-color: var(--cartao-frente);
-    box-shadow: 7px 7px 2px var(--preto);
+    box-shadow: 3px 3px 2px var(--preto);
     border: 1px solid var(--branco);
+    border-radius: 30px;
 }
 
 .conteudo-cartao:hover{
