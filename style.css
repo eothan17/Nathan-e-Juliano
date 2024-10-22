@@ -15,6 +15,14 @@ body{
 
 }
 
+header{
+    background-color: var(--branco);
+    color: var(--fundo);
+    padding: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+
 footer{
     position: fixed;
     bottom: 0;
