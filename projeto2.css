@@ -117,3 +117,8 @@ footer{
     gap: 3rem;
     padding: 20px;
 }
+
+.conteudo-cartao{
+    padding: 40px;
+    background-color: var(--cartao-frente);
+}
