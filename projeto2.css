@@ -111,3 +111,9 @@ footer{
     border-radius: 20px;
     background-color: var(--cartao-verso);
 }
+
+#container{
+    display: grid;
+    gap: 3rem;
+    
+}
