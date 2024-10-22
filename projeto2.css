@@ -114,12 +114,12 @@ footer{
 
 #container{
     display: grid;
-    gap: 3rem;
+    gap: 5rem;
     padding: 20px;
 }
 
 .conteudo-cartao{
     padding: 40px;
     background-color: var(--cartao-frente);
-    box-shadow: 7px 7px 7px var(--preto);
+    box-shadow: 7px 7px 2px var(--preto);
 }
