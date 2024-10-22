@@ -16,7 +16,7 @@ body{
 }
 
 header{
-    background-color: var(--branco);
+    background-color: var(--fundo);
     color: var(--fundo);
     padding: 2rem;
     display: flex;
