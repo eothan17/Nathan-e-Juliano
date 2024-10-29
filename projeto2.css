@@ -64,4 +64,7 @@ footer{
     padding: 40px;
     margin-top: 15px;
     display: none;
+    border-radius: 30px;
+    border-color: var(--branco);
+    
 }
