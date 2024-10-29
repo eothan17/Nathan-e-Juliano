@@ -22,6 +22,6 @@ function mostraResposta (card){
         (resposta.style.display = 'block')
     }
     else{
-
+resposta.style.display = 'none'
     }
 }
