@@ -66,5 +66,5 @@ footer{
     display: none;
     border-radius: 30px;
     border-color: var(--branco);
-    
+    border-style: solid;
 }
