@@ -52,8 +52,12 @@ footer{
     box-shadow: 3px 3px 2px var(--preto);
     border: 1px solid var(--branco);
     border-radius: 30px;
+    cursor: pointer;
 }
 
 .conteudo-cartao:hover{
     transform: scale(1.02);
+}
+.resposta-cartao{
+    background-color: var(--cartao-verso);
 }
